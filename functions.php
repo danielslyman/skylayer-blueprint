@@ -11,7 +11,7 @@
 /**
  * Define Constants
  */
-define( 'CHILD_THEME_SKYLAYER_BLUEPRINT_VERSION', '1.0.0' );
+define( 'CHILD_THEME_SKYLAYER_BLUEPRINT_VERSION', '1.0.1' );
 
 /**
  * Enqueue styles
